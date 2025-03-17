@@ -115,6 +115,7 @@ app.get('/api/vehiculo', authenticateToken, async (req: AuthenticatedRequest, re
 // PRUEBA DE POSTMAN
 
 // {
+//
 //     "message": "Bienvenido",
 //     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZF91c3VhcmlvcyI6NywiZW1haWwiOiJqYWlyb0Bjb3JyZW8uY29tIiwiaWF0IjoxNzQyMTYwNDMwLCJleHAiOjE3NDIxNjQwMzB9.jhXdCQ_NmQfiEYlfJskUusQpATDZSluu2B8M6B0ivKU"
 // }
